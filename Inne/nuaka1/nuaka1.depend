@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651937819 source:e:\analiza_ang\nuaka1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<cmath>
+

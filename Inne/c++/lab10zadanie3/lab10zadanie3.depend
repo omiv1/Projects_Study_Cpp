@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654996648 source:e:\analiza_ang\c++\lab10zadanie3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+
