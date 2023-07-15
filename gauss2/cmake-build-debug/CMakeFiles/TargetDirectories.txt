@@ -1,3 +1,0 @@
-C:/Users/lukas/CLionProjects/gauss2/cmake-build-debug/CMakeFiles/gauss2.dir
-C:/Users/lukas/CLionProjects/gauss2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/lukas/CLionProjects/gauss2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

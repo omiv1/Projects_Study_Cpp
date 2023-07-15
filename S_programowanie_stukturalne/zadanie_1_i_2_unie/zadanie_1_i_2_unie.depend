@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642859698 source:e:\programowanie_stur\zadanie_1_i_2_unie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

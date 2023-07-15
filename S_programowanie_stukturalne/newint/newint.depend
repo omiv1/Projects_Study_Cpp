@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1646328527 source:e:\programowanie_stur\newint\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
