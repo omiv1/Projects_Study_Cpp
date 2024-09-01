@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/lab5_interpolacja_nevillea_dziala/cmake-build-debug/CMakeFiles/lab5.dir
+C:/Users/lukas/CLionProjects/lab5_interpolacja_nevillea_dziala/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/lab5_interpolacja_nevillea_dziala/cmake-build-debug/CMakeFiles/rebuild_cache.dir

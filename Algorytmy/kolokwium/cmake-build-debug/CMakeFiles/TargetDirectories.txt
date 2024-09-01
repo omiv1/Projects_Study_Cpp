@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/kolokwium/cmake-build-debug/CMakeFiles/kolokwium.dir
+C:/Users/lukas/CLionProjects/kolokwium/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/kolokwium/cmake-build-debug/CMakeFiles/rebuild_cache.dir

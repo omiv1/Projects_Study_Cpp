@@ -1,0 +1,13 @@
+# ninja log v5
+3	901	7233460542728864	CMakeFiles/u5.dir/main.cpp.obj	b8bd731cdbacbf2b
+902	1053	7233460544229786	u5.exe	98592a4e2e1b236
+5	633	7233490919486939	CMakeFiles/u5.dir/Dictionary.cpp.obj	1bcc8dec3f2940de
+13	1285	7233490926000022	CMakeFiles/u5.dir/main.cpp.obj	b8bd731cdbacbf2b
+1286	1487	7233490927979225	u5.exe	e008bc2dbdfa9c00
+3	838	7233491399954571	CMakeFiles/u5.dir/main.cpp.obj	b8bd731cdbacbf2b
+839	966	7233491401200440	u5.exe	e008bc2dbdfa9c00
+4	870	7233491714791076	CMakeFiles/u5.dir/main.cpp.obj	b8bd731cdbacbf2b
+871	1009	7233491716171163	u5.exe	e008bc2dbdfa9c00
+3	580	7233498751216940	CMakeFiles/u5.dir/Dictionary.cpp.obj	1bcc8dec3f2940de
+8	985	7233498755236221	CMakeFiles/u5.dir/main.cpp.obj	b8bd731cdbacbf2b
+985	1158	7233498756958474	u5.exe	e008bc2dbdfa9c00

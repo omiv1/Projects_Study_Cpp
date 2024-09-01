@@ -1,0 +1,110 @@
+PropertyName;FriendlyName;ColumnName;DataSize;DataType
+DEFAULT_SCHEMA
+------------------------[Table Name: Category]------------------------
+CategoryKey;CategoryKey;CategoryKey;-1;xs:string
+CategoryName;CategoryName;CategoryName;100;xs:VARCHAR
+------------------------[Table Name: Channel]------------------------
+ChannelKey;ChannelKey;ChannelKey;-1;xs:double
+ChannelName;ChannelName;ChannelName;50;xs:VARCHAR
+ChannelDescription;ChannelDescription;ChannelDescription;-1;xs:TEXT
+------------------------[Table Name: City]------------------------
+CityKey;CityKey;CityKey;-1;xs:double
+CityName;CityName;CityName;50;xs:VARCHAR
+------------------------[Table Name: Comment]------------------------
+CommentKey;CommentKey;CommentKey;-1;xs:string
+CommentText;CommentText;CommentText;-1;xs:TEXT
+CommentDateTime;CommentDateTime;CommentDateTime;-1;xs:date
+CommentEditedDatetime;CommentEditedDatetime;CommentEditedDatetime;-1;xs:date
+IsSuspended;IsSuspended;IsSuspended;1;xs:boolean
+------------------------[Table Name: CommentRating]------------------------
+CommentRatingKey;CommentRatingKey;CommentRatingKey;-1;xs:string
+Rating;Rating;Rating;-1;xs:double
+------------------------[Table Name: Conversation]------------------------
+ConversationKey;ConversationKey;ConversationKey;-1;xs:double
+User1Key;User1Key;User1Key;-1;xs:double
+User2Key;User2Key;User2Key;-1;xs:double
+ChannelKey;ChannelKey;ChannelKey;-1;xs:double
+------------------------[Table Name: Country]------------------------
+CountryKey;CountryKey;CountryKey;-1;xs:double
+CountryName;CountryName;CountryName;50;xs:VARCHAR
+------------------------[Table Name: Discount]------------------------
+DiscountKey;DiscountKey;DiscountKey;-1;xs:double
+DiscountName;DiscountName;DiscountName;50;xs:VARCHAR
+DiscountDescription;DiscountDescription;DiscountDescription;-1;xs:TEXT
+DiscountStartTime;DiscountStartTime;DiscountStartTime;-1;xs:date
+DiscountEndTime;DiscountEndTime;DiscountEndTime;-1;xs:date
+------------------------[Table Name: Event]------------------------
+EventKey;EventKey;EventKey;-1;xs:double
+EventName;EventName;EventName;50;xs:VARCHAR
+EventDescription;EventDescription;EventDescription;-1;xs:TEXT
+EventDate;EventDate;EventDate;-1;xs:date
+EventTime;EventTime;EventTime;-1;xs:date
+------------------------[Table Name: Forum]------------------------
+ForumKey;ForumKey;ForumKey;-1;xs:double
+ForumName;ForumName;ForumName;50;xs:VARCHAR
+ForumDescription;ForumDescription;ForumDescription;-1;xs:TEXT
+------------------------[Table Name: ForumCategory]------------------------
+ForumCategoryKey;ForumCategoryKey;ForumCategoryKey;-1;xs:double
+ForumCategoryName;ForumCategoryName;ForumCategoryName;50;xs:VARCHAR
+------------------------[Table Name: MeetingPlace]------------------------
+PlaceKey;PlaceKey;PlaceKey;-1;xs:double
+PlaceName;PlaceName;PlaceName;50;xs:VARCHAR
+------------------------[Table Name: Message]------------------------
+MessageKey;MessageKey;MessageKey;-1;xs:string
+ConversationKey;ConversationKey;ConversationKey;-1;xs:double
+UserKey;UserKey;UserKey;-1;xs:double
+MessageText;MessageText;MessageText;-1;xs:TEXT
+MessageTimestamp;MessageTimestamp;MessageTimestamp;-1;xs:date
+------------------------[Table Name: Order]------------------------
+OrderKey;OrderKey;OrderKey;-1;xs:double
+OrderDate;OrderDate;OrderDate;-1;xs:date
+OrderTotal;OrderTotal;OrderTotal;-1;xs:MONEY
+------------------------[Table Name: OrderDetail]------------------------
+OrderDetailKey;OrderDetailKey;OrderDetailKey;-1;xs:string
+ProductQuantity;ProductQuantity;ProductQuantity;-1;xs:double
+ProductPrice;ProductPrice;ProductPrice;-1;xs:MONEY
+------------------------[Table Name: Post]------------------------
+PostKey;PostKey;PostKey;-1;xs:string
+PostTitle;PostTitle;PostTitle;50;xs:VARCHAR
+PostContent;PostContent;PostContent;-1;xs:VARCHAR
+IsSuspended;IsSuspended;IsSuspended;1;xs:boolean
+DatetimePublished;DatetimePublished;DatetimePublished;-1;xs:date
+DatetimeEdited;DatetimeEdited;DatetimeEdited;-1;xs:date
+------------------------[Table Name: PostRating]------------------------
+PostRatingKey;PostRatingKey;PostRatingKey;-1;xs:string
+Rating;Rating;Rating;-1;xs:double
+------------------------[Table Name: Product]------------------------
+ProductKey;ProductKey;ProductKey;-1;xs:string
+ProductName;ProductName;ProductName;100;xs:VARCHAR
+ProductDescription;ProductDescription;ProductDescription;-1;xs:TEXT
+ProductPrice;ProductPrice;ProductPrice;-1;xs:MONEY
+------------------------[Table Name: ProductDiscount]------------------------
+ProductDiscountKey;ProductDiscountKey;ProductDiscountKey;-1;xs:string
+------------------------[Table Name: Region]------------------------
+RegionKey;RegionKey;RegionKey;-1;xs:double
+RegionName;RegionName;RegionName;50;xs:VARCHAR
+RegionCurrency;RegionCurrency;RegionCurrency;3;xs:VARCHAR
+------------------------[Table Name: Rental]------------------------
+RentalKey;RentalKey;RentalKey;-1;xs:double
+RentalStartTime;RentalStartTime;RentalStartTime;-1;xs:date
+RentalEndTime;RentalEndTime;RentalEndTime;-1;xs:date
+------------------------[Table Name: Report]------------------------
+ReportKey;ReportKey;ReportKey;-1;xs:double
+ReportedUserKey;ReportedUserKey;ReportedUserKey;-1;xs:double
+ReportedCommentKey;ReportedCommentKey;ReportedCommentKey;-1;xs:double
+ReportedPostKey;ReportedPostKey;ReportedPostKey;-1;xs:double
+ReportedMessageKey;ReportedMessageKey;ReportedMessageKey;-1;xs:double
+------------------------[Table Name: SpecialRole]------------------------
+UserKey;UserKey;UserKey;-1;xs:double
+SpecialRoleID;SpecialRoleID;SpecialRoleID;10;xs:VARCHAR
+------------------------[Table Name: Subcategory]------------------------
+SubcategoryKey;SubcategoryKey;SubcategoryKey;-1;xs:string
+SubcategoryName;SubcategoryName;SubcategoryName;100;xs:VARCHAR
+------------------------[Table Name: User]------------------------
+UserKey;UserKey;UserKey;-1;xs:double
+UserName;UserName;UserName;30;xs:VARCHAR
+FirstName;FirstName;FirstName;15;xs:VARCHAR
+LastName;LastName;LastName;30;xs:VARCHAR
+Email;Email;Email;-1;xs:VARCHAR
+Password;Password;Password;50;xs:VARCHAR
+IsVerified;IsVerified;IsVerified;1;xs:boolean

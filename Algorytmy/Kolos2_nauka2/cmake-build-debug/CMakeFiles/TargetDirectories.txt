@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/Kolos2_nauka2/cmake-build-debug/CMakeFiles/Kolos2_nauka2.dir
+C:/Users/lukas/CLionProjects/Kolos2_nauka2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/Kolos2_nauka2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

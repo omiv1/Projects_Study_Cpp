@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/lab4_interpolacja_newtona_dziala/cmake-build-debug/CMakeFiles/newton.dir
+C:/Users/lukas/CLionProjects/lab4_interpolacja_newtona_dziala/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/lab4_interpolacja_newtona_dziala/cmake-build-debug/CMakeFiles/rebuild_cache.dir

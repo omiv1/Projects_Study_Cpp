@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/Ztree/cmake-build-debug/CMakeFiles/Ztree.dir
+C:/Users/lukas/CLionProjects/Ztree/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/Ztree/cmake-build-debug/CMakeFiles/rebuild_cache.dir

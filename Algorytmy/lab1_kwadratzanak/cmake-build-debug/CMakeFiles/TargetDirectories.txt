@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/kwadratzanak/cmake-build-debug/CMakeFiles/kwadratzanak.dir
+C:/Users/lukas/CLionProjects/kwadratzanak/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/kwadratzanak/cmake-build-debug/CMakeFiles/rebuild_cache.dir
