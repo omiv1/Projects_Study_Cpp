@@ -1,0 +1,5 @@
+C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/CMakeFiles/Lab7_1_ZPO_LO.dir
+C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/CMakeFiles/Lab7_1_ZPO_LO_autogen_timestamp_deps.dir
+C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/CMakeFiles/Lab7_1_ZPO_LO_autogen.dir

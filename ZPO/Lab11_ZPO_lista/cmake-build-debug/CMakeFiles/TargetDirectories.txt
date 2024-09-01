@@ -1,0 +1,3 @@
+C:/Users/lukas/CLionProjects/Lab11_ZPO_lista/cmake-build-debug/CMakeFiles/Lab11_ZPO_lista.dir
+C:/Users/lukas/CLionProjects/Lab11_ZPO_lista/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lukas/CLionProjects/Lab11_ZPO_lista/cmake-build-debug/CMakeFiles/rebuild_cache.dir

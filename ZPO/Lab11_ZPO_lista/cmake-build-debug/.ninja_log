@@ -1,0 +1,5 @@
+# ninja log v5
+13	547	7263744109827373	CMakeFiles/Lab11_ZPO_lista.dir/main.cpp.obj	5f3235d4b25dc4
+1	555	7263744109912902	CMakeFiles/Lab11_ZPO_lista.dir/Elem.cpp.obj	2a5136ed849be6af
+8	630	7263744110654637	CMakeFiles/Lab11_ZPO_lista.dir/TwoWayLinkedList.cpp.obj	7e984a8f5b99f8a1
+631	785	7263744112157389	Lab11_ZPO_lista.exe	bbc75aacb1d373bf

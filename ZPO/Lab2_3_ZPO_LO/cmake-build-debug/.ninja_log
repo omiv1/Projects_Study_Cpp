@@ -1,0 +1,7 @@
+# ninja log v5
+294	384	7196976822155632	Lab2_3_ZPO_LO.exe	af95ea754497b884
+1	137	7232572797678586	build.ninja	c6e7db0c285ba892
+8	63	7196966885397883	CMakeFiles/Lab2_3_ZPO_LO.dir/MeanBufor.cpp.obj	df787e748395b320
+3	265	7196972610487724	CMakeFiles/Lab2_3_ZPO_LO.dir/Bufor.cpp.obj	882cbe7005671014
+3	293	7196976821279295	CMakeFiles/Lab2_3_ZPO_LO.dir/main.cpp.obj	bbb8e3063b5cd4d0
+3	265	7196972216204517	CMakeFiles/Lab2_3_ZPO_LO.dir/MaxBufor.cpp.obj	da44cf3eab0eb48b

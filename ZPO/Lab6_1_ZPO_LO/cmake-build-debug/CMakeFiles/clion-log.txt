@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\lukas\CLionProjects\Lab6_1_ZPO_LO -B C:\Users\lukas\CLionProjects\Lab6_1_ZPO_LO\cmake-build-debug
+-- Found Boost: C:/Users/lukas/Downloads/boost_1_83_0/boost_1_83_0 (found suitable version "1.83.0", minimum required is "1.83.0")  
+-- Boost_INCLUDE_DIRS: C:/Users/lukas/Downloads/boost_1_83_0/boost_1_83_0
+-- Boost_LIBRARIES: 
+-- Boost_VERSION: 1.83.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/lukas/CLionProjects/Lab6_1_ZPO_LO/cmake-build-debug

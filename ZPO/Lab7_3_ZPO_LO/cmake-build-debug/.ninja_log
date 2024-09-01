@@ -1,0 +1,12 @@
+# ninja log v5
+2	625	7231822680389800	Lab7_3_ZPO_LO_autogen/timestamp	79fb52a45b6f5eb8
+2	625	7231822680389800	Lab7_3_ZPO_LO_autogen/mocs_compilation.cpp	79fb52a45b6f5eb8
+2	625	7231822680389800	C:/Users/lukas/CLionProjects/Lab7_3_ZPO_LO/cmake-build-debug/Lab7_3_ZPO_LO_autogen/timestamp	79fb52a45b6f5eb8
+2	625	7231822680389800	C:/Users/lukas/CLionProjects/Lab7_3_ZPO_LO/cmake-build-debug/Lab7_3_ZPO_LO_autogen/mocs_compilation.cpp	79fb52a45b6f5eb8
+626	715	7231822683307481	CMakeFiles/Lab7_3_ZPO_LO.dir/Lab7_3_ZPO_LO_autogen/mocs_compilation.cpp.obj	2fd0c29724f373ce
+632	2820	7231822704367461	CMakeFiles/Lab7_3_ZPO_LO.dir/main.cpp.obj	61fdb3e9e71fc98b
+2823	3090	7231822705622504	Lab7_3_ZPO_LO.exe	54ad621a4aaae035
+13	1173	7231822795741247	Lab7_3_ZPO_LO_autogen/timestamp	79fb52a45b6f5eb8
+13	1173	7231822795741247	Lab7_3_ZPO_LO_autogen/mocs_compilation.cpp	79fb52a45b6f5eb8
+13	1173	7231822795741247	C:/Users/lukas/CLionProjects/Lab7_3_ZPO_LO/cmake-build-debug/Lab7_3_ZPO_LO_autogen/timestamp	79fb52a45b6f5eb8
+13	1173	7231822795741247	C:/Users/lukas/CLionProjects/Lab7_3_ZPO_LO/cmake-build-debug/Lab7_3_ZPO_LO_autogen/mocs_compilation.cpp	79fb52a45b6f5eb8

@@ -1,0 +1,20 @@
+# ninja log v5
+3	1095	7231795496838707	Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+3	1095	7231795496838707	Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+3	1095	7231795496838707	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+3	1095	7231795496838707	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+1100	1146	7231795499672069	CMakeFiles/Lab7_1_ZPO_LO.dir/Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp.obj	ada05fc5e8874131
+1095	3232	7231795520519075	CMakeFiles/Lab7_1_ZPO_LO.dir/main.cpp.obj	bd98d9aa8f8639df
+3236	3802	7231795522485281	Lab7_1_ZPO_LO.exe	d91feb93dfd9ffe5
+10	958	7231796335852495	Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+10	958	7231796335852495	Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+10	958	7231796335852495	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+10	958	7231796335852495	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+972	3142	7231796357674528	CMakeFiles/Lab7_1_ZPO_LO.dir/main.cpp.obj	bd98d9aa8f8639df
+3143	3461	7231796359301029	Lab7_1_ZPO_LO.exe	d91feb93dfd9ffe5
+8	962	7231797743439934	Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+8	962	7231797743439934	Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+8	962	7231797743439934	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/timestamp	7cf7725bf4d30c64
+8	962	7231797743439934	C:/Users/lukas/CLionProjects/Lab7_1_ZPO_LO/cmake-build-debug/Lab7_1_ZPO_LO_autogen/mocs_compilation.cpp	7cf7725bf4d30c64
+983	3443	7231797768279662	CMakeFiles/Lab7_1_ZPO_LO.dir/main.cpp.obj	bd98d9aa8f8639df
+3444	3771	7231797769956311	Lab7_1_ZPO_LO.exe	d91feb93dfd9ffe5
